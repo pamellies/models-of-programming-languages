@@ -1,6 +1,8 @@
 # models-of-programming-languages
 Slides and handwritten notes on the course on models of programming languages.
 
+General description of the course [[here](https://wikimpri.dptinfo.ens-cachan.fr/doku.php?id=cours:c-2-2)]
+
 You may have access to the videos and handwritten notes of the course here:
 
 Online Session 1 [[video](https://us02web.zoom.us/rec/share/Rz4-XYeh-otOvkWzncJoSH1Ql41u7H8ysZUuB3p0X0-raiwlRXLmXG_Z5BNI0W3d.emFvqQJrKJfA6YkT?startTime=1602005057000)]
