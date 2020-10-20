@@ -12,4 +12,4 @@ Online Session 2 [[video](https://us02web.zoom.us/rec/share/MzS_dnAptIwWiM__sqn7
 [[smcc](https://github.com/pamellies/models-of-programming-languages/blob/main/Models-of-Programming-Languages-2C-smcc.pdf)]
 
 Online Session 3 [[video](https://us02web.zoom.us/rec/share/dBjcRgKUMURzJkTwZQMFdLlxWhnmqho-hNjkOBu11R8vRfnqFk4vImRyXCLIGXhR.6SSAp3sbBtq0oK3p?startTime=1603177314000)]
-[[smcc](https://github.com/pamellies/models-of-programming-languages/blob/main/Models-of-Programming-Languages-3.pdf)]
+[[coh](https://github.com/pamellies/models-of-programming-languages/blob/main/Models-of-Programming-Languages-3.pdf)]
