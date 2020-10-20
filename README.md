@@ -1,5 +1,6 @@
 # Models of Programming Languages
-Slides and handwritten notes of my online course on **models of programming languages** at the Master Parisien de Recherche en Informatique.
+Slides and handwritten notes of my online course on **models of programming languages** at the Master Parisien de Recherche en Informatique. You will find [here](https://wikimpri.dptinfo.ens-cachan.fr/doku.php?id=cours:c-2-2) a general description of the course
+which I teach with [Thomas Ehrhard](https://www.irif.fr/~ehrhard) and [Michele Pagani](https://www.irif.fr/~pagani).
 
 You may have access to the videos and handwritten notes of the course here:
 
@@ -13,6 +14,3 @@ Online Session 2: cartesian closed categories [[video](https://us02web.zoom.us/r
 
 Online Session 3: coherence spaces [[video](https://us02web.zoom.us/rec/share/dBjcRgKUMURzJkTwZQMFdLlxWhnmqho-hNjkOBu11R8vRfnqFk4vImRyXCLIGXhR.6SSAp3sbBtq0oK3p?startTime=1603177314000)]
 [[coh](https://github.com/pamellies/models-of-programming-languages/blob/main/Models-of-Programming-Languages-3.pdf)]
-
-You will find [here](https://wikimpri.dptinfo.ens-cachan.fr/doku.php?id=cours:c-2-2) a general description of the course
-which I teach with [Thomas Ehrhard](https://www.irif.fr/~ehrhard) and [Michele Pagani](https://www.irif.fr/~pagani).
