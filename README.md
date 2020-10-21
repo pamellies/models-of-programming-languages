@@ -20,3 +20,5 @@ Lesson 2: interpretation of the lambda-calculus [[video](https://us02web.zoom.us
 
 Lesson 3: coherence spaces, monoidal categories [[video](https://us02web.zoom.us/rec/share/dBjcRgKUMURzJkTwZQMFdLlxWhnmqho-hNjkOBu11R8vRfnqFk4vImRyXCLIGXhR.6SSAp3sbBtq0oK3p?startTime=1603177314000)]
 [[coh](https://github.com/pamellies/models-of-programming-languages/blob/main/Models-of-Programming-Languages-3.pdf)]
+
+Lesson 4: linear logic, star-autonomous categories, exponential modality
