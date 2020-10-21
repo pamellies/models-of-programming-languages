@@ -8,7 +8,7 @@ Lesson A: general introduction to the course [[slides](https://github.com/pamell
 
 Lesson B: simply-typed lambda-calculus, cartesian closed categories [[slides](https://github.com/pamellies/models-of-programming-languages/blob/main/Models-of-Programming-Languages-slides-ccc.pdf)]
 
-Lesson C: domains and continuous functions [[td](https://github.com/pamellies/models-of-programming-languages/blob/main/Models-of-Programming-Languages-td-domains.pdf)]
+Lesson C: domains and continuous functions [[notes](https://github.com/pamellies/models-of-programming-languages/blob/main/Models-of-Programming-Languages-domains.pdf)]
 
 Lesson 1: cartesian closed categories, adjunctions [[video](https://us02web.zoom.us/rec/share/Rz4-XYeh-otOvkWzncJoSH1Ql41u7H8ysZUuB3p0X0-raiwlRXLmXG_Z5BNI0W3d.emFvqQJrKJfA6YkT?startTime=1602005057000)]
 [[adjunctions](https://github.com/pamellies/models-of-programming-languages/blob/main/Models-of-Programming-Languages-1.pdf)]
