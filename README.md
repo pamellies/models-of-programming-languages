@@ -6,7 +6,7 @@ You may have access to the videos, slides and handwritten notes of the course he
 
 Lesson A: general introduction to the course [[slides](https://github.com/pamellies/models-of-programming-languages/blob/main/Models-of-Programming-Languages-intro.pdf)]
 
-Lesson B: simply-typed lambda-calculus, categories, functors, natural transformations
+Lesson B: simply-typed lambda-calculus, categories, functors, natural transformations [[slides](https://github.com/pamellies/models-of-programming-languages/blob/main/Models-of-Programming-Languages-slides-ccc.pdf)]
 
 Lesson C: cartesian categories, domains and continuous functions
 
