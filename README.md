@@ -6,9 +6,9 @@ You may have access to the videos and handwritten notes of the course here:
 
 Lesson A: general introduction to the course
 
-Lesson B: set-theoretic interpretation of the simply-typed lambda-calculus
+Lesson B: simply-typed lambda-calculus, categories, functors, natural transformations
 
-Lesson C: domains and continuous functions
+Lesson C: cartesian categories, domains and continuous functions
 
 Lesson 1: cartesian closed categories, adjunctions [[video](https://us02web.zoom.us/rec/share/Rz4-XYeh-otOvkWzncJoSH1Ql41u7H8ysZUuB3p0X0-raiwlRXLmXG_Z5BNI0W3d.emFvqQJrKJfA6YkT?startTime=1602005057000)]
 [[adjunctions](https://github.com/pamellies/models-of-programming-languages/blob/main/Models-of-Programming-Languages-1.pdf)]
