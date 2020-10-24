@@ -22,3 +22,7 @@ Lesson 3: coherence spaces, monoidal categories [[video](https://us02web.zoom.us
 [[coh](https://github.com/pamellies/models-of-programming-languages/blob/main/Models-of-Programming-Languages-3.pdf)]
 
 Lesson 4: linear logic, star-autonomous categories, exponential modality
+
+TD: from stable functions to coherence spaces
+[[td](https://github.com/pamellies/models-of-programming-languages/blob/main/Models-of-Programming-Languages-td-coh.pdf)]
+
