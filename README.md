@@ -14,14 +14,15 @@ Lesson 1: cartesian closed categories, adjunctions [[video](https://us02web.zoom
 [[adjunctions](https://github.com/pamellies/models-of-programming-languages/blob/main/Models-of-Programming-Languages-1.pdf)]
 
 Lesson 2: interpretation of the lambda-calculus [[video](https://us02web.zoom.us/rec/share/MzS_dnAptIwWiM__sqn7V6c97ceU6iZHWeQSEFBjfay43oBifOyBueUbrAAJEHf6.67W8ZnsaJvqFlBIP?startTime=1602571973000)]
-[[ccc](https://github.com/pamellies/models-of-programming-languages/blob/main/Models-of-Programming-Languages-2A-ccc.pdf)]
+[[notes-ccc](https://github.com/pamellies/models-of-programming-languages/blob/main/Models-of-Programming-Languages-2A-ccc.pdf)]
 [[td](https://github.com/pamellies/models-of-programming-languages/blob/main/Models-of-Programming-Languages-2B-td.pdf)]
-[[smcc](https://github.com/pamellies/models-of-programming-languages/blob/main/Models-of-Programming-Languages-2C-smcc.pdf)]
+[[notes-mon](https://github.com/pamellies/models-of-programming-languages/blob/main/Models-of-Programming-Languages-2C-smcc.pdf)]
 
 Lesson 3: coherence spaces, monoidal categories [[video](https://us02web.zoom.us/rec/share/dBjcRgKUMURzJkTwZQMFdLlxWhnmqho-hNjkOBu11R8vRfnqFk4vImRyXCLIGXhR.6SSAp3sbBtq0oK3p?startTime=1603177314000)]
-[[coh](https://github.com/pamellies/models-of-programming-languages/blob/main/Models-of-Programming-Languages-3.pdf)]
+[[notes](https://github.com/pamellies/models-of-programming-languages/blob/main/Models-of-Programming-Languages-3.pdf)]
 
 Lesson 4: linear logic, star-autonomous categories [[video](https://us02web.zoom.us/rec/share/DvoSPf2EFnR0a_Iihl09LDEyd9Eckxrm_vXqXUCGHH6W39Go8PyfKvWkHXM5DWLx.uSmpDDr80P59ibuK?startTime=1603785312000)]
+[[notes](https://github.com/pamellies/models-of-programming-languages/blob/main/Models-of-Programming-Languages-3.pdf)]
 
 Lesson 5: the exponential modality of linear logic
 
