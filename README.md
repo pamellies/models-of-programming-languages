@@ -24,7 +24,7 @@ Lesson 3: coherence spaces, monoidal categories [[video](https://us02web.zoom.us
 Lesson 4: linear logic, star-autonomous categories [[video](https://us02web.zoom.us/rec/share/DvoSPf2EFnR0a_Iihl09LDEyd9Eckxrm_vXqXUCGHH6W39Go8PyfKvWkHXM5DWLx.uSmpDDr80P59ibuK?startTime=1603785312000)]
 [[notes](https://github.com/pamellies/models-of-programming-languages/blob/main/Models-of-Programming-Languages-4.pdf)]
 
-Lesson 5: the exponential modality of linear logic [video](https://www.irif.fr/~mellies/mpri/mpri-m2/Online-Sessions-MPRI/Models-Of-Programming-Languages-Online-Session-5.mp4)][[notes](https://github.com/pamellies/models-of-programming-languages/blob/main/Models-of-Programming-Languages-5.pdf)]
+Lesson 5: the exponential modality of linear logic [[video](https://www.irif.fr/~mellies/mpri/mpri-m2/Online-Sessions-MPRI/Models-Of-Programming-Languages-Online-Session-5.mp4)][[notes](https://github.com/pamellies/models-of-programming-languages/blob/main/Models-of-Programming-Languages-5.pdf)]
 
 TD: from stable functions to coherence spaces
 [[td](https://github.com/pamellies/models-of-programming-languages/blob/main/Models-of-Programming-Languages-td-coh.pdf)]
